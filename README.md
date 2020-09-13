@@ -1,7 +1,6 @@
 # XTetris
-Puhas X11 ja C99 Tetris
+Puhas X11 ja C99 Tetris :)
 
-Kompileerimiseks peab olema X11 devtools installitud
+Kompileerimiseks peab olema X11 devtools installitud.
 
 gcc xtetris.c -o xtetris -lm -lX11
-./xtetris
